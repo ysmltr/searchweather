@@ -1,16 +1,16 @@
-Search Weather 
+Search Weather <br>
 
-Description
+Description<br>
 WeatherNow is a user-friendly website that allows you to quickly check the current weather conditions for any location in the world.
 Simply enter the name of a city or country, and get real-time weather updates instantly.
 
-Technologies Used
+Technologies Used<br>
 HTML5
 CSS3
 JavaScript
 OpenWeatherMap API
 
-Features
+Features<br>
 Real-time Weather Updates: Get up-to-the-minute weather information for any location.
 Search by Location: Enter a city or country name to view the weather details.
 User-Friendly Interface: Clean and intuitive design for a seamless experience.
