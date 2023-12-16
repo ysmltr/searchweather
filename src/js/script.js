@@ -1,8 +1,7 @@
-const url='https://api.openweathermap.org/data/2.5'
+require('dotenv').config();
 
-const key='e58822d79181a82d00d774a4b516da14'
-
-
+const url = process.env.WEATHER_API_URL;
+const key = process.env.WEATHER_API_KEY;
 
 const setQuery=(e)=>{
     if (e.keyCode=='13') {
